@@ -24,7 +24,7 @@ public abstract class Shape {
 		numShapes++;
 	}
 	
-	// Accessors for dimensions
+	// Accessors for dimensions that describe size for ALL shapes
 	
 	public int getLength() { return length;}
 	public int getWidth() { return width;}
